@@ -1,0 +1,1278 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"sub",
+				"submenu"
+			],
+			[
+				"nav",
+				"navigation"
+			],
+			[
+				"array_ke",
+				"array_key_exists"
+			],
+			[
+				"su",
+				"subVal"
+			],
+			[
+				"arr",
+				"arrVal"
+			],
+			[
+				"a",
+				"arrVal"
+			],
+			[
+				"array_",
+				"array_push"
+			],
+			[
+				"tem",
+				"template_dir"
+			],
+			[
+				"value",
+				"values"
+			],
+			[
+				"user",
+				"user"
+			],
+			[
+				"html",
+				"htmlentities"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"rgb",
+				"rgb()"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"prija",
+				"prijavljenKorisnik"
+			],
+			[
+				"DB",
+				"DB_NAME"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"borrad",
+				"border-bottom-left-radius"
+			],
+			[
+				"zi",
+				"z-index"
+			],
+			[
+				"impr",
+				"important"
+			],
+			[
+				"fonts",
+				"font-size"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"b",
+				"bold"
+			],
+			[
+				"sty",
+				"list-style"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"pos",
+				"pos-r	position: relative;"
+			],
+			[
+				"re",
+				"requestUrl"
+			],
+			[
+				"flick",
+				"flickrAppKey"
+			],
+			[
+				"border-bo",
+				"border-bottom-left-radius"
+			],
+			[
+				"error",
+				"error_reporting"
+			],
+			[
+				"err",
+				"error_reporting"
+			],
+			[
+				"he",
+				"header-bg"
+			],
+			[
+				"hea",
+				"header-bg"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"mal",
+				"mali-ekran"
+			],
+			[
+				"lo",
+				"logo-left-position"
+			],
+			[
+				"veli",
+				"veliki-ekran"
+			],
+			[
+				"as",
+				"aside-width"
+			],
+			[
+				"content",
+				"content-width"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"flo",
+				"float"
+			],
+			[
+				"x",
+				"x-veliki-ekran-granicnik"
+			],
+			[
+				"vel",
+				"veliki-ekran-granicnik"
+			],
+			[
+				"srednj",
+				"srednji-ekran-granicnik"
+			],
+			[
+				"mali",
+				"mali-ekran-granicnik"
+			],
+			[
+				"po",
+				"pos-r	position: relative;"
+			],
+			[
+				"fn",
+				"fun	Function"
+			],
+			[
+				"media",
+				"@media	@media ${1:screen} {\n	${0}\n}"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"siv",
+				"sivo-crna"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"page",
+				"pageslide"
+			],
+			[
+				"al",
+				"vertical-align"
+			],
+			[
+				"whit",
+				"white-gray-darker"
+			],
+			[
+				"whi",
+				"white-gray-darker"
+			],
+			[
+				"dropdow",
+				"dropdown-open"
+			],
+			[
+				"data",
+				"dataTarget"
+			],
+			[
+				"cli",
+				"clientWidth"
+			],
+			[
+				"wmd",
+				"wmd-input"
+			],
+			[
+				"dropdo",
+				"dropdownAction"
+			],
+			[
+				"border-t",
+				"border-top-left-radius"
+			],
+			[
+				"border-ra",
+				"border-top-right-radius"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"exec",
+				"execCommand"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"col",
+				"col-lg-4"
+			],
+			[
+				"st",
+				"style	Attr"
+			],
+			[
+				"border-b",
+				"border-bottom"
+			],
+			[
+				"out",
+				"outline"
+			],
+			[
+				"ou",
+				"outline-color"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"border-to",
+				"border-top-right-radius"
+			],
+			[
+				"border-le",
+				"border-top-left-radius"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"ka",
+				"kategorije_array"
+			],
+			[
+				"kate",
+				"kategorije"
+			],
+			[
+				"kategorije",
+				"kategorije_array"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"t",
+				"dotted"
+			],
+			[
+				"file_",
+				"file_get_contents"
+			],
+			[
+				"preg_mat",
+				"preg_match_all"
+			],
+			[
+				"is",
+				"isLiveReg"
+			],
+			[
+				"if",
+				"if?	$… = ( … ) ? … : …"
+			],
+			[
+				"res",
+				"resultReg"
+			],
+			[
+				"home",
+				"homeTeam"
+			],
+			[
+				"preg_",
+				"preg_match"
+			],
+			[
+				"preg",
+				"preg_match_all"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"clean",
+				"clean_url"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "/*! HTML5 Boilerplate v4.3.0 | MIT License | http://h5bp.com/ */\n\n/*\n * What follows is the result of much research on cross-browser styling.\n * Credit left inline and big thanks to Nicolas Gallagher, Jonathan Neal,\n * Kroc Camen, and the H5BP dev community and team.\n */\n\n/* ==========================================================================\n   Base styles: opinionated defaults\n   ========================================================================== */\n\nhtml,\nbutton,\ninput,\nselect,\ntextarea {\n    color: #222;\n}\n\nhtml {\n    font-size: 1em;\n    line-height: 1.4;\n    height: 100%;\n}\n\nbody {\n    position: relative;\n    margin: 0;\n    padding-bottom: 3rem;\n    min-height: 100%;\n}\n\n*,\n*:before,\n*:after {\n  -webkit-box-sizing: border-box;\n  -moz-box-sizing:    border-box;\n  box-sizing:         border-box;\n}\n\n/*\n * Remove text-shadow in selection highlight: h5bp.com/i\n * These selection rule sets have to be separate.\n * Customize the background color to match your design.\n */\n\n::-moz-selection {\n    background: #b3d4fc;\n    text-shadow: none;\n}\n\n::selection {\n    background: #b3d4fc;\n    text-shadow: none;\n}\n\n/*\n * A better looking default horizontal rule\n */\n\nhr {\n    display: block;\n    height: 1px;\n    border: 0;\n    border-top: 1px solid #ccc;\n    margin: 1em 0;\n    padding: 0;\n}\n\n/*\n * Remove the gap between images, videos, audio and canvas and the bottom of\n * their containers: h5bp.com/i/440\n */\n\naudio,\ncanvas,\nimg,\nvideo {\n    vertical-align: middle;\n}\n\n/*\n * Remove default fieldset styles.\n */\n\nfieldset {\n    border: 0;\n    margin: 0;\n    padding: 0;\n}\n\n/*\n * Allow only vertical resizing of textareas.\n */\n\ntextarea {\n    resize: vertical;\n}\n\na, a:link, a:visited {\n    color: #4477cc;\n    text-decoration: none;\n}\n\n/* ==========================================================================\n   Browse Happy prompt\n   ========================================================================== */\n\n.browsehappy {\n    margin: 0.2em 0;\n    background: #ccc;\n    color: #000;\n    padding: 0.2em 0;\n}\n\n/* ==========================================================================\n   Author's custom styles\n   ========================================================================== */\n\n\n\n\n\n.wrapper {\n    position: relative;\n    width: 96%;\n    margin: 0 auto;\n    overflow: auto;\n}\n\n\n\n\n/*\n *  Navigacija\n */\n\nnav {\n    width: 100%;\n    margin: 0;\n    padding: 0;\n    background-color: #222;\n\n}\n\nul.nav {\n    overflow: auto;\n    list-style: none;\n    margin: 0;\n    padding: 0;\n}\n\nul.nav li {\n    float: left;\n    border: 1px solid #999;\n    border-radius: 4px;\n    margin: 1%;\n    width: 48%;\n    color: #ddd;\n}\n\n\nul.nav li a, ul.nav li .text {\n    display: block;\n    padding: 5px 0;\n    text-decoration: none;\n    font-size: 1.3em;\n    color: #ddd;\n    text-align: center;\n    font-weight: bold;\n}\n\nul.nav li.brand {\n    display: block;\n    padding: 0;\n    text-decoration: none;\n    font-size: 1.5em;\n    color: #ddd;\n    text-align: center;\n    font-weight: bold;\n    width: 98%;\n}\n\n.navToggle {\n    color: #ddd !important;\n    padding: 0px 10px;\n    font-size: 2em;\n\n}\n\n.hideMobileMenu {\n    position: relative;\n    float: right;\n    width: 18%;\n    /*margin-right: 1%;*/\n    font-size: 2.5em;\n}\n\n.mobileMenu {\n    position: absolute;\n    top: 0;\n    left: -70%;\n    width: 70%;\n    height: 100%;\n    background-color: #ddd;\n    /*display: none;*/\n    \n}\n\n.mobileMenu ul {\n    position: relative;\n    float: left;\n    width: 80%;\n    list-style: none;\n}\n\n.mainContainer {\n    position: relative;\n    float: right;\n}\n\n/*\n *  Masthead\n */\n\n .masthead {\n    position: relative;\n    width: 100%;\n    overflow: auto;\n    padding: 0;\n    color:#ddd;\n    line-height: 1;\n    font-size: 1.2em;\n    text-align:center;\n    text-shadow:0 1px 0 rgba(0,0,0,.1);\n    background-color:#6f5499;\n    background-image:-webkit-linear-gradient(top,#563d7c 0,#6f5499 100%);\n    background-image:linear-gradient(to bottom,#563d7c 0,#6f5499 100%);\n    background-repeat:repeat-x;\n    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#563d7c', endColorstr='#6F5499', GradientType=0);\n }\n\n\n/*\n *  Obavestenja na stranici (Notifications)\n */\n\n.obavestenje {\n    position: relative;\n    width: 100%;\n    padding: 1%;\n    margin:3% auto !important;\n    border-radius: 4px;\n}\n\n/*\n *  Panel\n */\n\n.panel {\n    float: left;\n    position: relative;\n    overflow: auto;\n    width: 100%;\n    border-radius: 4px;\n    margin-bottom: 3%;\n    padding: 0;\n}\n\n.panel-title, .panel-footer {\n    padding: 1% 0;\n}\n\n.panel-title {\n    border-top-left-radius: 2px;\n    border-top-right-radius: 2px;\n    font-size: 1.2em;\n}\n\n.panel-footer {\n    border-bottom-left-radius: 2px;\n    border-bottom-right-radius: 2px;\n}\n\n.panel .panel-content {\n    padding: 1%;\n    background-color: #fff !important;\n}\n\n\n\n\n\n/*PRETRAGA*/\n\nform {\n    position: relative;\n    float: left;\n    width: 99%;\n    margin-bottom: 2% !important;\n}\n\n.search-input {\n    position: relative;\n    float: left;\n    background: rgba(255, 255, 255, 0.9);\n    border: 0px solid #dbdbdb;\n    height: 1.4em;\n    width: 88%;\n    margin: 0;\n    padding: 0 5%;\n    padding-right: 7%;\n    outline: none;\n}\n\ninput:focus {\n    box-shadow: 0 0 5px rgba(111, 79, 144, 1);\n}\n\n.search-button {\n    position: relative;\n    float: left;\n    border: 0px solid #207cca;\n    background-color: #207cca;\n    color: #fafafa;\n    height: 1.4em;\n    width: 19%;\n    margin: 0;\n}\n\n.search-button:after {\n    content: \"\";\n    display: block;\n    position: absolute;\n    width: 0;\n    height: 0;\n    left: -0.65em;\n    top: -0em;\n    border-top: 0.7em solid transparent;\n    border-bottom: 0.7em solid transparent;\n    border-right: 0.7em solid #207cca;\n}\n\n\n/*\n *  Login\n */\n\n\n.modal {\n    display: none;\n    position: fixed;\n    top: 0;\n    left: 0;\n    width: 100%;\n    height: 100%;\n    z-index: 2;\n    background-color: rgba(0, 0, 0, 0.9);\n}\n\n.dismiss-modal {\n    position: relative;\n    float: right;\n    color: white;\n    margin: 15px;\n    font-size: 3em;\n}\n\n.login-bground {\n    width: 90%;\n    height: 90%;\n    overflow: auto; /* Recommended in case content is larger than the container */\n    margin: auto;\n    position: absolute;\n    top: 0;\n    left: 0;\n    bottom: 0;\n    right: 0;\n    background-color: #6f5499;\n    border-radius: 10px;\n    z-index: 3;\n}\n\n.login-holder {\n    width: 94%;\n    height: 96%;\n    background-color: white;\n    margin: auto;\n    position: absolute;\n    top: 0;\n    left: 0;\n    bottom: 0;\n    right: 0;\n    border-radius: 6px;\n    z-index: 4;\n}\n\nform.login-form {\n    position: relative;\n    float: left;\n    width: 100%;\n    margin: 0;\n}\n\n\nform.login-form input {\n    margin: 2%;\n    padding: 0 2%;\n    float: left;\n    width: 96%;\n    height: 40px;\n    border: 1px solid #bbb;\n    outline: none;\n}\n\nform.login-form input[type=checkbox] {\n    width: 25px;\n    margin: 0;\n    margin-right: 15px;\n    position: relative;\n    float: left;\n    height: 40px;\n    border: 0px solid transparent !important;\n    box-shadow: none !important;\n}\n\n.form-control {\n    position: relative;\n    line-height: 40px;\n    float: left;\n    vertical-align: middle;\n    width: 92%;\n    margin: 0 2%!important;\n    font-size: 1.2em;\n    border: 1px solid red;\n\n}\n\n\n\nblockquote {\n    border-left: 5px solid gray;\n    padding-left: 5px;\n    font-style: italic;\n}\n\n\n\n /*LOGIN FORM DROPDOWN*/\n\n\n #login_form {\n    position: absolute;\n    width: 400px;\n    background-color: #e9e9e9;\n    border: 5px solid #4477cc;\n    border-radius: 10px;\n    left: 40%;\n    margin-top: 6px;    \n    padding: 10px;    \n    text-align: left;\n    z-index: 199;\n    display: none;\n}\n\n.drop-menu {\n    display: none;\n}\n\n#login_form:before {\n    position: absolute;\n    content: \"\";\n    width: 0;\n    height: 0;\n    border-left: 10px solid transparent;\n    border-right: 10px solid transparent;\n    border-bottom: 16px solid #4477cc;\n\n    top: -16px;\n    left: 182px;\n}\n\n#login_form:after {\n    position: absolute;\n    content: \"\";\n    width: 0;\n    height: 0;\n    border-left: 5px solid transparent;\n    border-right: 5px solid transparent;\n    border-bottom: 9px solid #e9e9e9;\n\n    top: -9px;\n    left: 187px;\n}\n\n#login_form img {\n    position: relative;\n    float: left;\n    width: 100%;\n    height: auto;\n}\n\n\n/*\n * Buttons\n */\n\n\n .btn {\n    position: relative;\n    float: left;\n    margin: 5px;\n    max-width: 200px;\n    height: 40px;\n    font-size: 1.2em;\n    font-weight: bold;\n    background-color: #999;\n    color: #ddd;\n    border: 0px solid transparent;\n    padding: 5px 10px;\n }\n\n a.btn {\n    color: #ddd;\n    text-decoration: none;\n    line-height: 30px;\n }\n\n a.btn:hover {\n    background-color: #207cca;\n }\n\n\n\n\n/*\n *  Footer\n */\n\nfooter {\n  position: absolute;\n  right: 0;\n  bottom: 0;\n  left: 0;\n  padding: 1rem;\n  text-align: center;\n  background-color: #b2b2b2;\n  background: -webkit-linear-gradient(#828282, #b2b2b2);\n  background: -moz-linear-gradient(#828282, #b2b2b2);\n  background: -ms-linear-gradient(#828282, #b2b2b2);\n  background: -o-linear-gradient(#828282, #b2b2b2);\n  background: linear-gradient(#828282, #b2b2b2);\n  color: #e2e2e2;\n}\n\n\n\n\n\n\n\n\n\n\n\n/* ==========================================================================\n   Helper classes\n   ========================================================================== */\n\n/*\n * Image replacement\n */\n\n.ir {\n    background-color: transparent;\n    border: 0;\n    overflow: hidden;\n    /* IE 6/7 fallback */\n    *text-indent: -9999px;\n}\n\n.ir:before {\n    content: \"\";\n    display: block;\n    width: 0;\n    height: 150%;\n}\n\n/*\n * Hide from both screenreaders and browsers: h5bp.com/u\n */\n\n.hidden {\n    display: none !important;\n    visibility: hidden;\n}\n\n/*\n * Hide only visually, but have it available for screenreaders: h5bp.com/v\n */\n\n.visuallyhidden {\n    border: 0;\n    clip: rect(0 0 0 0);\n    height: 1px;\n    margin: -1px;\n    overflow: hidden;\n    padding: 0;\n    position: absolute;\n    width: 1px;\n}\n\n/*\n * Extends the .visuallyhidden class to allow the element to be focusable\n * when navigated to via the keyboard: h5bp.com/p\n */\n\n.visuallyhidden.focusable:active,\n.visuallyhidden.focusable:focus {\n    clip: auto;\n    height: auto;\n    margin: 0;\n    overflow: visible;\n    position: static;\n    width: auto;\n}\n\n/*\n * Hide visually and from screenreaders, but maintain layout\n */\n\n.invisible {\n    visibility: hidden;\n}\n\n/*\n * Clearfix: contain floats\n *\n * For modern browsers\n * 1. The space content is one way to avoid an Opera bug when the\n *    `contenteditable` attribute is included anywhere else in the document.\n *    Otherwise it causes space to appear at the top and bottom of elements\n *    that receive the `clearfix` class.\n * 2. The use of `table` rather than `block` is only necessary if using\n *    `:before` to contain the top-margins of child elements.\n */\n\n.clearfix:before,\n.clearfix:after {\n    content: \" \"; /* 1 */\n    display: table; /* 2 */\n}\n\n.clearfix:after {\n    clear: both;\n}\n\n/*\n * For IE 6/7 only\n * Include this rule to trigger hasLayout and contain floats.\n */\n\n.clearfix {\n    *zoom: 1;\n}\n\n/*\n *  Fix space between footer and content\n */\n\n.footerfix {\n    margin:60px 0;\n}\n\n/*\n *  Uklanjanje dekoracije i boje sa linkova\n */\n\na.nostyle {\n    text-decoration: none;\n}\n\n/*a:link.nostyle {\n    color: white;\n}*/\n/*\n *  Border color and background color class helper\n */\n\n.default {\n    border: 1px solid #ddd;\n    background-color: #f2f2f2;\n}\n\n.info {\n    border: 1px solid #bce8f1;\n    background-color: #d9edf7;\n}\n\n.alert {\n    border: 1px solid #ebccd1;\n    background-color: #f2dede;\n}\n\n.warning {\n    border: 1px solid #faebcc;\n    background-color: #fcf8e3;\n}\n\n.success {\n    border: 1px solid #d6e9c6;\n    background-color: #dff0d8;\n}\n\n\n/*Lead text*/\n\n.lead {\n    font-size: 2em;\n    font-weight: bold;\n    margin: 0;\n}\n\n.lead:first-child {\n    margin-top: 3%;\n}\n\n.element-center {\n    margin: 0 auto;\n}\n\n\n/*\n *  Offset\n */\n\n\n.offset-1 {\n    margin-left: 8.3%;\n}\n\n.pull-right {\n    float: right !important;\n}\n\n\n.text-center {\n    text-align: center;\n}\n\n.border-left {\n    border-top: 1px solid #999;\n}\n\n.border-right {\n    border-bottom: 1px solid #999;\n}\n\n.hb {\n    position: relative;\n    float: left;\n    height: 100%;\n    border-top: 1px solid #999; \n}\n\n.vb {\n    position: relative;\n    float: left;\n    background-color: #999;\n}\n\n.bold {\n    font-weight: bold;;\n}\n\n.text-center {\n    text-align: center;\n}\n\n.nomargins {\n    margin: 0 !important;\n}\n\n.nopadding {\n    padding: 0 !important;\n}\n\n.grayfont {\n    color: #aaa;\n}\n\n.padding5 {\n    padding: 0 5px;\n}\n\n.wiki {\n    font-size: 0.9em;\n}\n\n.tag {\n    position: relative;\n    padding: 3px;\n    border: 1px solid #bce8f1;\n    background-color: #d9edf7;\n    color: rgb(38,82,91);\n    font-size: 0.7em !important;\n}\n\n.font2 {\n    font-size: 2em;\n}\n\n\n\n\n\n/*CKEditor*/\n\n.cke_toolbar {\n    height: 1em !important;\n}\n\n\n\n/* ==========================================================================\n    Hide content for mobile users\n   ========================================================================== */\n\n@media only screen and (max-width: 993px) {\n\n    .mobilehidden {\n    display: none;\n    }\n\n    .mm {\n        margin-right: 0 !important;\n    }\n\n}\n\n\n\n/* ==========================================================================\n   EXAMPLE Media Queries for Responsive Design.\n   These examples override the primary ('mobile first') styles.\n   Modify as content requires.\n   ========================================================================== */\n\n\n\n\n\n\n\n@media only screen and (min-width: 1023px) {\n    /* Style adjustments for viewports that meet the condition */\n\n    .bigHidden {\n        display: none;\n    }\n\n\n    .wrapper {\n        width: 990px;\n    }\n\n    nav {\n        background-color: #222 !important;\n        background: none;\n\n}\n\n    ul.nav li {\n        float: left;\n        border: none;\n        margin: 0;\n        width: auto;\n        border-radius: 0;\n        font-size: 1em;\n    }\n\n    ul.nav li a, ul.nav li .text {\n        display: block;\n        padding: 10px 15px;\n        text-decoration: none;\n        font-size: 1em;\n        color: #bbb;\n        text-align: center;\n        font-weight: normal;\n        width: auto;\n    }\n\n    ul.nav li img {\n        height: 1.2em;\n        margin-right: 5px;\n    }\n\n    ul.nav li.user {\n        margin-right: 20px;\n    }\n\n        li.user .badge {\n            font-size: 0.5em;\n            color: brown;\n            vertical-align: middle;\n        }\n\n    .admin-panel {\n        margin: 0 30px;\n    }\n\n    ul.nav li.brand {\n        display: block;\n        padding: 0;\n        margin: 0;\n        text-decoration: none;\n        font-size: 1em;\n        color: #bbb;\n        text-align: center;\n        width: auto;\n    }\n\n    ul.nav li a:hover {\n        background-color: #444;\n    }\n\n    ul.nav li.brand a {\n        font-weight: bold;\n        padding: 10px 15px;\n    }\n\n    .masthead {\n        position: relative;\n        width: 100%;\n        overflow: auto;\n        padding: 40px 0;\n        color:#ddd;\n        line-height: 1;\n        font-size: 1.4em;\n        text-align:center;\n        text-shadow:0 1px 0 rgba(0,0,0,.1);\n        background-color:#6f5499;\n        background-image:-webkit-linear-gradient(top,#563d7c 0,#6f5499 100%);\n        background-image:linear-gradient(to bottom,#563d7c 0,#6f5499 100%);\n        background-repeat:repeat-x;\n        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#563d7c', endColorstr='#6F5499', GradientType=0);\n    }\n\n\n    .obavestenje {\n        margin: 1% auto !important;\n    }\n\n    .panel-title, .panel-footer {\n        padding: 0.5% 0;\n    }\n\n    form {\n        margin-bottom: 0 !important;\n    }\n\n\n\n\n    .login-bground {\n        width: 600px;\n        height: 400px;\n    }\n\n    .login-holder {\n        width: 585px;\n        height: 385px;\n    }\n\n    \n\n\n\n/* =============================================================\n    Helper classes for desktop only\n   ============================================================= */\n\n   .pull-right-desktop {\n        float: right !important;\n   }\n\n\n   .border-left {\n        border-left: 1px solid #999;\n        border-top: none;\n    }\n\n    .border-right {\n        border-right: 1px solid #999;\n        border-bottom: none;\n    }\n\n    .vb {\n        min-width: 1px !important;\n        height: auto;\n        z-index: 100;\n        \n    }\n\n    .lead:first-child {\n        margin-top: 0;\n    }\n\n   \n\n\n\n}\n\n\n\n\n/*\n*   Media width 1024\n*/\n\n\n\n\n\n\n\n\n\n\n\n@media print,\n       (-o-min-device-pixel-ratio: 5/4),\n       (-webkit-min-device-pixel-ratio: 1.25),\n       (min-resolution: 120dpi) {\n    /* Style adjustments for high resolution devices */\n}\n\n\n\n\n\n\n\n\n/* ==========================================================================\n   Print styles.\n   Inlined to avoid required HTTP connection: h5bp.com/r\n   ========================================================================== */\n\n@media print {\n    * {\n        background: transparent !important;\n        color: #000 !important; /* Black prints faster: h5bp.com/s */\n        box-shadow: none !important;\n        text-shadow: none !important;\n    }\n\n    a,\n    a:visited {\n        text-decoration: underline;\n    }\n\n    a[href]:after {\n        content: \" (\" attr(href) \")\";\n    }\n\n    abbr[title]:after {\n        content: \" (\" attr(title) \")\";\n    }\n\n    /*\n     * Don't show links for images, or javascript/internal links\n     */\n\n    .ir a:after,\n    a[href^=\"javascript:\"]:after,\n    a[href^=\"#\"]:after {\n        content: \"\";\n    }\n\n    pre,\n    blockquote {\n        border: 1px solid #999;\n        page-break-inside: avoid;\n    }\n\n    thead {\n        display: table-header-group; /* h5bp.com/t */\n    }\n\n    tr,\n    img {\n        page-break-inside: avoid;\n    }\n\n    img {\n        max-width: 100% !important;\n    }\n\n    @page {\n        margin: 0.5cm;\n    }\n\n    p,\n    h2,\n    h3 {\n        orphans: 3;\n        widows: 3;\n    }\n\n    h2,\n    h3 {\n        page-break-after: avoid;\n    }\n}\n\n\n\n\n/* =================================================================\n   =================================================================\n                    Grid for all screen sizes\n   =================================================================\n   ================================================================= */\n\n   .col-sm-1, .col-lg-1, .col-sm-2, .col-lg-2, .col-sm-3, .col-lg-3, .col-sm-4, .col-lg-4, .col-sm-5, .col-lg-5, .col-sm-6, .col-lg-6, .col-sm-7, .col-lg-7, .col-sm-8, .col-lg-8, .col-sm-9, .col-lg-9, .col-sm-10, .col-lg-10, .col-sm-11, .col-lg-11, .col-sm-12, .col-lg-12 {\n    position: relative;\n    min-height: 1px;\n    margin: 0.5%;\n    float: left;\n    padding: 0.5%;\n    overflow: auto;\n   }\n\n\n    .col-sm-12 {\n      width: 99%;\n    }\n    .col-sm-11 {\n      width: 90.66666667%;\n    }\n    .col-sm-10 {\n      width: 82.33333333%;\n    }\n    .col-sm-9 {\n      width: 74%;\n    }\n    .col-sm-8 {\n      width: 65.66666667%;\n    }\n    .col-sm-7 {\n      width: 57.33333333%;\n    }\n    .col-sm-6 {\n      width: 48%;\n    }\n    .col-sm-5 {\n      width: 40.66666667%;\n    }\n    .col-sm-4 {\n      width: 31.33333333%;\n    }\n    .col-sm-3 {\n      width: 24%;\n    }\n    .col-sm-2 {\n      width: 15.66666667%;\n    }\n    .col-sm-1 {\n      width: 7.33333333%;\n    }\n\n\n@media only screen and (min-width: 1023px) {\n\n\n    .col-lg-12 {\n      width: 99%;\n    }\n    .col-lg-11 {\n      width: 90.66666667%;\n    }\n    .col-lg-10 {\n      width: 82.33333333%;\n    }\n    .col-lg-9 {\n      width: 74%;\n    }\n    .col-lg-8 {\n      width: 65.66666667%;\n    }\n    .col-lg-7 {\n      width: 57.33333333%;\n    }\n    .col-lg-6 {\n      width: 49%;\n    }\n    .col-lg-5 {\n      width: 40.66666667%;\n    }\n    .col-lg-4 {\n      width: 32.33333333%;\n    }\n    .col-lg-3 {\n      width: 24%;\n    }\n    .col-lg-2 {\n      width: 15.66666667%;\n    }\n    .col-lg-1 {\n      width: 7.33333333%;\n    }\n\n\n    .col-lg-offset-0-1 {\n    margin-left: 3%;\n  }\n\n\n}\n\n\n\n\n\n\n/*agEdit*/\n\n\n.ag-btn .fa {\n    padding: 5px;\n    color: #222;\n}\n\n\n.editor-container {\n    position: relative;\n    padding: 10px;\n    font-size: 0.8em;\n}\n\n.editor-container:focus {\n    outline: 0px solid transparent;\n}\n\n.vr {\n    border-right: 2px solid #aaa;\n}\n\n\n\n/* DropDown */\n\n.dropdown, .dropdown-bubble {\n  position: absolute;\n  min-width: 200px;\n  max-width: 350px;\n  height: auto;\n  background-color: white;\n  border: 1px solid #e0e0e0;\n  border-top: 0px solid transparent;\n  left: 40%;\n  text-align: left;\n  top: 60%;\n  z-index: 1999;\n  display: none; }\n  .dropdown .content, .dropdown-bubble .content {\n    padding: 5px;\n  }\n  .dropdown ul, .dropdown-bubble ul {\n    overflow: auto;\n    list-style: none;\n    margin: 0;\n    padding: 0;\n    width: 100%; }\n    .dropdown ul li, .dropdown-bubble ul li {\n      overflow: auto;\n      list-style: none;\n      margin: 0;\n      padding: 5px;\n      width: 100%; }\n    .dropdown ul li:hover, .dropdown-bubble ul li:hover {\n      background-color: #f4f4f4; }\n        .dropdown ul li.divider, .dropdown-bubble ul li.divider {\n          margin: 3px 0;\n          padding: 0;\n          width: 100%;\n          border-bottom: 1px solid #e8e8e8; }\n        .dropdown ul li.divider:hover, .dropdown-bubble ul li.divider:hover {\n            background-color: transparent; }\n\n.dropdown-bubble {\n  border-top: 1px solid #e0e0e0; }\n\n.dropdown-bubble:before {\n  position: absolute;\n  content: \"\";\n  width: 0;\n  height: 0;\n  border-left: 5px solid transparent;\n  border-right: 5px solid transparent;\n  border-bottom: 9px solid #e0e0e0;\n  top: -9px;\n  left: 5px; }\n\n.dropdown-bubble:after {\n  position: absolute;\n  content: \"\";\n  width: 0;\n  height: 0;\n  border-left: 4px solid transparent;\n  border-right: 4px solid transparent;\n  border-bottom: 7px solid white;\n  top: -6px;\n  left: 6px; }\n\n.dropdown-open {\n  display: block !important; }\n\n.dropdown-title {\n  padding: 3%;\n  background-color: #e8e8e8;\n  color: #555;\n  width: 100%;\n  height: 35px; }\n\n.bg-white, .bg-white a {\n  background-color: #e8e8e8 !important;\n  color: #222 !important; }\n\n.bg-white a:hover {\n  background-color: #e8e8e8 !important;\n  color: #222 !important; }\n\n/* COLORS */\n.black {\n  color: #222; }\n\n\n\n/* Notification Label */\n\n.notification {\n    color: red !important;\n}\n\n.label {\n    position: relative;\n    float: right;\n    margin-left: 5px;\n    padding: 0.2em;\n    font-size: 0.6em;\n    background-color: red;\n    color: white;\n}",
+			"settings":
+			{
+				"buffer_size": 22327,
+				"line_ending": "Unix",
+				"name": "/*! HTML5 Boilerplate v4.3.0 | MIT License | http:"
+			}
+		},
+		{
+			"file": "include/themes/xxl/css/global.css",
+			"settings":
+			{
+				"buffer_size": 10231,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "gCMS.sublime-project",
+			"settings":
+			{
+				"buffer_size": 104,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 306,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/aleksandar/Desktop/Default (Linux).sublime-keymap",
+			"settings":
+			{
+				"buffer_size": 248,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "classes/SiteInfo.php",
+			"settings":
+			{
+				"buffer_size": 2587,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "include/themes/xxl/index.php",
+			"settings":
+			{
+				"buffer_size": 844,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "include/themes/xxl/js/global.js",
+			"settings":
+			{
+				"buffer_size": 1998,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "classes/DB.php",
+			"settings":
+			{
+				"buffer_size": 4430,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 96.0,
+		"selected_items":
+		[
+			[
+				"pi",
+				"Package Control: Install Package"
+			],
+			[
+				"lin",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"phpfm",
+				"phpfmt: toggle PSR1"
+			],
+			[
+				"phpf",
+				"phpfmt: analyse this"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"linter",
+				"SublimeLinter: Clear Caches"
+			],
+			[
+				"linte",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"prefix",
+				"Autoprefix CSS"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"uppe",
+				"Convert Case: Upper Case"
+			],
+			[
+				"pc",
+				"Package Control: Remove Package"
+			],
+			[
+				"pcr",
+				"Package Control: Remove Package"
+			],
+			[
+				"ip",
+				"Package Control: Install Package"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"packa in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/aleksandar/.config/sublime-text-3/Packages/phpfmt/message",
+		"/home/aleksandar/.config/sublime-text-3/Packages/Autoprefixer/readme.md",
+		"/opt/lampp/htdocs/gCMS/.project/SideBarEnhancements.json",
+		"/home/aleksandar/Desktop/readme.md",
+		"/home/aleksandar/.config/sublime-text-3/Settings/SideBarEnhancements.json",
+		"/home/aleksandar/.config/sublime-text-3/Packages/Autoprefixer/Autoprefixer.sublime-settings",
+		"/opt/lampp/htdocs/gCMS/functions/sanitize.php",
+		"/opt/lampp/htdocs/gCMS/.htaccess",
+		"/opt/lampp/htdocs/gCMS/index.php",
+		"/opt/lampp/htdocs/gCMS/classes/Template.php",
+		"/opt/lampp/htdocs/gCMS/administration/include/themes/sb-admin/font-awesome-4.1.0/fonts/FontAwesome.otf",
+		"/opt/lampp/htdocs/gCMS/administration/include/themes/sb-admin/fonts/glyphicons-halflings-regular.svg",
+		"/opt/lampp/htdocs/gCMS/classes/Config.php",
+		"/opt/lampp/htdocs/gCMS/core/init.php",
+		"/opt/lampp/htdocs/gCMS/classes/Validate.php",
+		"/opt/lampp/htdocs/gCMS/functions/Info.php",
+		"/tmp/fz3temp-1/index.html",
+		"/tmp/fz3temp-1/style.css",
+		"/tmp/fz3temp-1/upr_stranica.php",
+		"/tmp/fz3temp-1/index.php",
+		"/opt/lampp/htdocs/gCMS/include/themes/xxl/test.php",
+		"/opt/lampp/htdocs/gCMS/include/themes/xxl/index.php",
+		"/opt/lampp/htdocs/gCMS/include/themes/gCMS/test.php",
+		"/opt/lampp/htdocs/gCMS/include/themes/gCMS/index.php",
+		"/opt/lampp/htdocs/gCMS/include/themes/index.php",
+		"/opt/lampp/htdocs/gCMS/config/Config.php",
+		"/opt/lampp/htdocs/gCMS/administration/index.php",
+		"/opt/lampp/htdocs/gCMS/config/global.php",
+		"/opt/lampp/htdocs/gCMS/administration/classes/master.admin.php",
+		"/home/aleksandar/Desktop/index.php",
+		"/home/aleksandar/Desktop/euroasias/index.html",
+		"/home/aleksandar/Desktop/euroasias/style.css",
+		"/opt/lampp/htdocs/xxl/pluggable/example.php",
+		"/opt/lampp/htdocs/xxl/pluggable/plugins/hello_baby.php",
+		"/opt/lampp/htdocs/xxl/pluggable/pluggable.php",
+		"/opt/lampp/htdocs/xxl/pluggable/utils.php",
+		"/opt/lampp/htdocs/xxl/pluggable/plugins/three_two_one.php",
+		"/opt/lampp/htdocs/xxl/pluggable/plugins/singh_is_king.php",
+		"/opt/lampp/htdocs/xxl/pluggable/plugins/htmlize.php",
+		"/tmp/fz3temp-1/upr_korisnik_class.php",
+		"/tmp/fz3temp-1/kom_clanak_admin.php",
+		"/tmp/fz3temp-1/upr_engine_html.php",
+		"/tmp/fz3temp-1/upr_engine_class.php",
+		"/tmp/fz3temp-1/sweb.php",
+		"/opt/lampp/htdocs/xxl/adminpanel/class.adminPanel.php",
+		"/opt/lampp/htdocs/xxl/adminpanel/index.php",
+		"/opt/lampp/htdocs/xxl/Templates/index.html",
+		"/tmp/fz3temp-1/start.php",
+		"/home/aleksandar/Desktop/xxlmarketing/css/style.css",
+		"/home/aleksandar/Desktop/xxlmarketing/index.html",
+		"/home/aleksandar/Desktop/xxlmarketing/scss/style.scss",
+		"/tmp/fz3temp-1/xxl.css",
+		"/tmp/fz3temp-1/index2.php",
+		"/tmp/fz3temp-1/index2 2.php",
+		"/tmp/fz3temp-1/xxl_novo.css",
+		"/tmp/fz3temp-1/kom_pocetna.php",
+		"/tmp/fz3temp-1/admin_login.php",
+		"/tmp/fz3temp-1/upr_korisnik_admin.php",
+		"/tmp/fz3temp-1/index 2.php",
+		"/tmp/fz3temp-1/index 3.php",
+		"/tmp/fz3temp-1/stranica.php",
+		"/opt/lampp/htdocs/foto/index.php",
+		"/opt/lampp/htdocs/foto/script.js",
+		"/tmp/fz3temp-1/header.php",
+		"/run/user/1000/gvfs/ftp:host=ftp.xxlmarketing.co.rs/public_html/komponente/kom_pocetna/kom_pocetna.php",
+		"/run/user/1000/gvfs/ftp:host=ftp.xxlmarketing.co.rs/public_html/izgled/xxl/index.php",
+		"/run/user/1000/gvfs/ftp:host=ftp.xxlmarketing.co.rs/public_html/index.php",
+		"/run/user/1000/gvfs/ftp:host=ftp.xxlmarketing.co.rs/public_html/izgled/xxl/css/xxl.css",
+		"/opt/lampp/htdocs/foto/example.php",
+		"/opt/lampp/htdocs/foto/getToken.php",
+		"/opt/lampp/htdocs/foto/auth.php",
+		"/opt/lampp/htdocs/foto/phpFlickr.php",
+		"/opt/lampp/htdocs/ecommerce/assets/css/custom.css",
+		"/tmp/fz3temp-1/cw.php",
+		"/tmp/fz3temp-1/footer.php",
+		"/opt/lampp/htdocs/ecommerce/brojac.php",
+		"/home/aleksandar/Desktop/blog/sass/master.scss",
+		"/home/aleksandar/Desktop/blog/sass/master.css",
+		"/home/aleksandar/Desktop/blog/js/master.js",
+		"/home/aleksandar/Desktop/fznr/css/main.css",
+		"/opt/lampp/htdocs/fznr/index.html",
+		"/home/aleksandar/Desktop/blog/index.html",
+		"/opt/lampp/htdocs/fznr/js/main.js",
+		"/home/aleksandar/Desktop/fznr/js/main.js",
+		"/home/aleksandar/Desktop/fznr/index.html",
+		"/home/aleksandar/Desktop/fznr/js/agEditor.js",
+		"/home/aleksandar/git/jdm/index.html",
+		"/opt/lampp/htdocs/fznr/css/main.css",
+		"/opt/lampp/htdocs/fznr/js/jquery.pageslide.js",
+		"/opt/lampp/htdocs/fznr/css/jquery.pageslide.css",
+		"/home/aleksandar/Desktop/srobbin-jquery-pageslide-d00801f/examples/basic.html",
+		"/opt/lampp/htdocs/fznr/toggle.html",
+		"/home/aleksandar/Desktop/srobbin-jquery-pageslide-d00801f/jquery.pageslide.js",
+		"/home/aleksandar/Desktop/srobbin-jquery-pageslide-d00801f/jquery.pageslide.css",
+		"/home/aleksandar/Desktop/fznr/sass/navigacija.scss",
+		"/home/aleksandar/Desktop/fznr/test.html",
+		"/home/aleksandar/Desktop/fznr/sass/variables.scss",
+		"/home/aleksandar/Desktop/bootstrap-3.1.1/dist/css/bootstrap.css",
+		"/home/aleksandar/Desktop/fznr/sass/navigacija.css",
+		"/home/aleksandar/Desktop/bootstrap-3.1.1/less/mixins.less",
+		"/home/aleksandar/Desktop/bootstrap-3.1.1/less/grid.less",
+		"/home/aleksandar/Desktop/fznr/sass/dropdown.css",
+		"/home/aleksandar/Desktop/fznr/sass/dropdown.scss",
+		"/home/aleksandar/Desktop/fznr/sass/panel.css",
+		"/home/aleksandar/Desktop/fznr/sass/panel.scss",
+		"/home/aleksandar/Desktop/fznr/sass/alert.scss",
+		"/home/aleksandar/Desktop/fznr/sass/alert.css",
+		"/home/aleksandar/Desktop/bootstrap-3.1.1/less/variables.less",
+		"/home/aleksandar/Desktop/bootstrap-3.1.1/less/alerts.less",
+		"/home/aleksandar/Desktop/fznr/sass/main.css",
+		"/home/aleksandar/Desktop/fznr/sass/main.scss",
+		"/home/aleksandar/Desktop/fznr/fznr-lekcija.html",
+		"/home/aleksandar/Desktop/bootstrap-3.1.1/less/responsive-utilities.less",
+		"/home/aleksandar/Desktop/bootstrap-3.1.1/less/media.less",
+		"/home/aleksandar/Desktop/bootstrap-3.1.1/less/scaffolding.less",
+		"/home/aleksandar/Desktop/fznr/js/plugins.js",
+		"/home/aleksandar/Desktop/fznr/css/wmd.css",
+		"/home/aleksandar/Desktop/fznr/js/wmd.js",
+		"/opt/lampp/htdocs/fznr/notf.html",
+		"/opt/lampp/htdocs/fznr/baloon.html",
+		"/opt/lampp/htdocs/fznr/dropdown.html",
+		"/opt/lampp/htdocs/fznr/blog.html",
+		"/opt/lampp/htdocs/fznr/css/dropdown.html",
+		"/home/aleksandar/Desktop/bootstrap-3.1.1/js/dropdown.js",
+		"/opt/lampp/htdocs/fznr/css/notf.html",
+		"/opt/lampp/htdocs/fznr/assets/css/style.css",
+		"/home/aleksandar/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/aleksandar/.config/sublime-text-3/Packages/Emmet/Emmet.sublime-settings"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"",
+			"dropdown",
+			"e8e8e8",
+			"ul",
+			"Bounding",
+			"getBoundingClientRect()",
+			"dropdown",
+			"div",
+			"text",
+			"id",
+			"_theme",
+			"text",
+			"id",
+			"\"",
+			"this",
+			"self",
+			"this",
+			"parametar",
+			")",
+			"(",
+			"p",
+			"240",
+			"private",
+			"104",
+			"33",
+			"showMobileMenu",
+			"images/",
+			"pre",
+			"code",
+			"bottom",
+			"0 0",
+			":",
+			"wmibox",
+			"0 0",
+			"blue",
+			"0 0",
+			"5px ",
+			"inset",
+			"Veliki",
+			"veliki",
+			"\\t\\t",
+			"          ",
+			"     ",
+			"1023",
+			"user",
+			", 50",
+			"mobileMenu",
+			"222",
+			"ul",
+			"0.1em",
+			"1.3",
+			" #999",
+			"drop1",
+			"6",
+			"5",
+			"7",
+			"6",
+			"10",
+			"panel",
+			"alert",
+			"border:",
+			"border: ",
+			"border:",
+			"gray-light",
+			"Color",
+			"@state-success-bg",
+			"f0f0f0",
+			";\n",
+			"btn",
+			"90",
+			"1.1",
+			"1.2",
+			"b4b4b4",
+			"e9e9e9",
+			"e4e4e4",
+			"d4d4d4",
+			"c4c4c4",
+			"b4b4b4",
+			"e4e4e4",
+			"888",
+			"240",
+			"200",
+			"f2f2f2",
+			"event",
+			"lg",
+			"fa-circle-o",
+			"font2",
+			"posbottom",
+			"posleft",
+			"isShown",
+			"dataTarget",
+			"hide(",
+			"0",
+			"dropdown",
+			"position: relative;\n	float: left;\n	width: 100%;",
+			".editor-container",
+			"0;",
+			"background-position",
+			"2",
+			"555",
+			"bbb",
+			"10",
+			"\"",
+			"6",
+			"9",
+			"12",
+			"6",
+			"17",
+			"10",
+			"13",
+			"8",
+			"15",
+			"top",
+			"2",
+			"12",
+			"22",
+			"15",
+			"10",
+			"4477cc",
+			"8",
+			"login-",
+			"vote_container",
+			"12",
+			"8",
+			"0.7",
+			"8",
+			"span",
+			"3"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 7,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 22327,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1079,
+								1079
+							]
+						],
+						"settings":
+						{
+							"auto_name": "/*! HTML5 Boilerplate v4.3.0 | MIT License | http:",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 842.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "include/themes/xxl/css/global.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10231,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10230,
+								10230
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5826.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "gCMS.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 104,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15,
+								15
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 306,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								306,
+								306
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/aleksandar/Desktop/Default (Linux).sublime-keymap",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 248,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "classes/SiteInfo.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2587,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2528,
+								2528
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1130.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "include/themes/xxl/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 844,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								235,
+								235
+							],
+							[
+								312,
+								312
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "include/themes/xxl/js/global.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1998,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1369,
+								1369
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 417.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "classes/DB.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4430,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2233,
+								2233
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1224.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "gCMS.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				".js",
+				"include/themes/xxl/js/global.js"
+			],
+			[
+				"site",
+				"classes/SiteInfo.php"
+			],
+			[
+				".css",
+				"include/themes/xxl/css/global.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 215.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
